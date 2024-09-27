@@ -1,0 +1,5 @@
+#default: --no-source --color --format pretty
+#parallel: --no-source --color --format pretty --format html --out report<%= ENV['TEST_ENV_NUMBER'] %>.html
+default: --no-source --color --format pretty --format html --out report<%= ENV['TEST_ENV'] %>.html
+ci: --no-source --color --expand --format json --out reports/cucumber.json
+dev: FIG_NEWTON_FILE=dev.yml --no-source --color --format pretty
