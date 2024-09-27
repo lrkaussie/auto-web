@@ -1,2 +1,4 @@
-# auto-web
-Web Automation
+Readme
+======
+
+UI Automation Framework based on Selenium webdriver, WATIR and Cucumber
