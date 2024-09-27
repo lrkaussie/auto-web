@@ -1,0 +1,13 @@
+Products:
+  COGAU:
+    product_sku:
+      promo: 130664
+      nonpromo: 141114
+    product_price:
+      before_promo_au: 12.95
+      after_product_promo_au: 11.95
+      after_order_promo_au: 29.72
+      order_discount: 5.18
+      shipping_discount_au: 1.00
+      after_shipping_promo_au: 96.84
+

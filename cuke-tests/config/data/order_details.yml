@@ -1,0 +1,60 @@
+order_details:
+  site: au
+#  site: us
+#  site: nz
+  products:
+    - 9353699350224
+#    - 9352855706332
+  qty:
+    - 1
+#    - 2
+  coupons_bag: []
+#  coupons_bag:
+#    - auto_test_order
+#    - auto_test_product
+  vouchers_bag: []
+#  vouchers_bag:
+#    - 9831028610400280
+#    - 9838624231100404
+#  user_type:  reg_with_saved_add
+#  user_type:  reg_without_saved_add
+  user_type:  guest
+  email_add: cottononqa+testorderutilnsa@gmail.com
+  first_name: ~first_name
+  last_name: ~last_name
+  phone: 0403222638
+  hd_phone: 0403222638
+  hd_first_name: ~first_name
+  hd_last_name: ~last_name
+#  country:  United States
+  country:  Australia
+#  country:  New Zealand
+  homdel_address1:  ~randomize ['11 Primus Road']
+#  homdel_address1:  ~randomize ['310 West Broadway']
+#  homdel_address1:  ~randomize ['90 Federal Street']
+  homedel_city: ~randomize ['Williams Landing']
+#  homedel_city: ~randomize ['New York City']
+#  homedel_city: ~randomize ['Auckland']
+  homedel_state_abb:  ~randomize ['VIC']
+#  homedel_state_abb:  ~randomize ['New York']
+#  homedel_state_abb:  ~randomize ['Auckland']
+  homedel_postcode: ~randomize ['3027']
+#  homedel_postcode: ~randomize ['10013']
+#  homedel_postcode: ~randomize ['0627']
+#  auth_to_leave_list: []
+  auth_to_leave_list: Leave out of the weather
+  vouchers_checkout:  []
+#  vouchers_checkout:
+#    - 9831028610400280
+#    - 9838624231100404
+  gift_card_no: []
+  gift_card_pin:  []
+#  gift_card_no:
+#    - 123456789
+#    - 123456789
+#  gift_card_pin:
+#    - 1234
+#    - 1234
+  payment_type: creditcard
+#  payment_type: paypal
+#  payment_type: afterpay

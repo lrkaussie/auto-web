@@ -1,0 +1,2158 @@
+Personas:
+  Bob:
+    fullname:
+      fname: Bob
+      lname: Jones
+    email_info:
+      email_address: bob.jones@email.com
+      password: Cottonon123
+    store_postcode: 9810
+    store_address: Cotton On - INVERCARGILL (MEGA)
+    store_city: INVERCARGILL
+    store_id: 9029
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: NZ
+    country: New Zealand
+    house:
+      address1: 14 Church Street
+      city: Auckland
+      state: Auckland
+      state_abb: AUK
+      postcode: 5220
+    phone: 99912345678
+
+  Robin:
+    fullname:
+      fname: Robin
+      lname: Smith
+    email_info:
+      email_address: robin.smith@email.com
+      password: Cottonon123
+    store_postcode: 9810
+    store_address: Cotton On - INVERCARGILL (MEGA)
+    store_city: INVERCARGILL
+    store_id: 9029
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: NZ
+    country: New Zealand
+    house:
+      address1: 14 Church Street
+      city: Auckland
+      state: Auckland
+      state_abb: AUK
+      postcode: 5220
+    phone: 99912345678
+
+  Junior:
+    fullname:
+      fname: Junior
+      lname: Botha
+    email_info:
+      email_address: junior.botha@email.com
+      password: Cottonon123
+    store_postcode: 5247
+    store_address: Cotton On - HEMINGWAYS MEGA Drive
+    store_city: East London
+    store_id: 0938
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: ZA
+    country: South Africa
+    house:
+      address1: 1234 Church Street
+      city: Johannesburg
+      state: Gauteng
+      state_abb: GT
+      postcode: 12345
+    phone: 99912345678
+
+  Neil:
+    fullname:
+      fname: Neil
+      lname: Mckenzie
+    email_info:
+      email_address: neil.mckenzie@email.com
+      password: Cottonon123
+    store_postcode: 5247
+    store_address: Cotton On - HEMINGWAYS MEGA
+    store_city: East London
+    store_id: 0938
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: ZA
+    country: South Africa
+    house:
+      address1: 1234 Church Street
+      city: Johannesburg
+      state: Gauteng
+      state_abb: GT
+      postcode: 12345
+    phone: 99912345678
+
+  Don:
+    fullname:
+      fname: Don
+      lname: Bradman
+    email_info:
+      email_address: don.bradman@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 450139228
+
+  DonUK:
+    fullname:
+      fname: Don
+      lname: Bradman
+    email_info:
+      email_address: don.bradman@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: GB
+    country: United Kingdom
+    house:
+      address1: 1 Ferry Rd
+      city: Leverburgh
+      state: Prescot
+      state_abb: Prescot
+      postcode: HS5 3UB
+    phone: +819013232104
+
+  Giftwrap:
+    fullname:
+      fname: Giftwrap
+      lname: Giftwrap
+    email_info:
+      email_address: gift.wrap@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 99912345678
+
+  Mark:
+    fullname:
+      fname: Mark
+      lname: Taylor
+    email_info:
+      email_address: mark.taylor@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 99912345678
+
+  John:
+    fullname:
+      fname: John
+      lname: Smith
+    email_info:
+      email_address: john.smith@cottonon.com.au
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 99912345678
+
+  Thomas:
+    fullname:
+        fname: Thomas
+        lname: Jones
+    email_info:
+      email_address: thomas.jones@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 13 California Ave
+      city: Bakersfield
+      state: California
+      state_abb: CA
+      postcode: 93304
+    phone: 5419670010
+
+  ThomasBerkeley:
+    fullname:
+      fname: Thomas
+      lname: Jones
+    email_info:
+      email_address: thomas.jones@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 1310 Mcgee Ave
+      city: Berkeley
+      state: California
+      state_abb: CA
+      postcode: 94703
+    phone: 5419670010
+
+  ThomasAdrian:
+    fullname:
+      fname: Thomas
+      lname: Jones
+    email_info:
+      email_address: thomas.jones@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 201 Historic Route 66
+      city: Adrian
+      state: Texas
+      state_abb: TX
+      postcode: 79001
+    phone: 5419670010
+
+  ThomasWhite:
+    fullname:
+      fname: Thomas
+      lname: Jones
+    email_info:
+      email_address: thomas.jones@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 2958 Browns Gap Tpke
+      city: White Hall
+      state: Virginia
+      state_abb: VA
+      postcode: 22987
+    phone: 5419670010
+
+  ThomasAlbion:
+    fullname:
+      fname: Thomas
+      lname: Jones
+    email_info:
+      email_address: thomas.jones@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 10 W Elm St
+      city: Albion
+      state: Illinois
+      state_abb: IL
+      postcode: 62806
+    phone: 5419670010
+
+  Robert:
+    fullname:
+      fname: Robert
+      lname: Smith
+    email_info:
+      email_address: robert.smith@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 13 California Ave
+      city: Bakersfield
+      state: California
+      state_abb: CA
+      postcode: 93304
+    phone: 5419670010
+
+  RobertAlbany:
+    fullname:
+      fname: Robert
+      lname: Smith
+    email_info:
+      email_address: robert.smith@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 535 Pierce St
+      city: Albany
+      state: California
+      state_abb: CA
+      postcode: 94706
+    phone: 5419670010
+
+  RobertAgua:
+    fullname:
+      fname: Robert
+      lname: Smith
+    email_info:
+      email_address: robert.smith@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2020
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 1518 2nd St
+      city: Agua Dulce
+      state: Texas
+      state_abb: TX
+      postcode: 78330
+    phone: 5419670010
+
+  Adam:
+    fullname:
+      fname: Adam
+      lname: Amin
+    email_info:
+      email_address: cottononqa+MYvincy@gmail.com
+      password: Cottonon123
+    store_postcode: 69000
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 7296
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: MY
+    country: Malaysia
+    house:
+      address1: 75 Kg Sg Ramal Luar
+      city: Kajang
+      state: Selangor
+      state_abb: 10
+      postcode: 43000
+    phone: 5419670010
+
+  Adam_AU:
+    fullname:
+      fname: Adam
+      lname: Amin
+    email_info:
+      email_address: adam.amin@email.com
+      password: Cottonon123
+    store_postcode: 69000
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 7296
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 5419670010
+
+  Raja:
+    fullname:
+      fname: Raja
+      lname: Zaidi
+    email_info:
+      email_address: raja.zaidi@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: MY
+    country: Malaysia
+    house:
+      address1: 75 Kg Sg Ramal Luar
+      city: Kajang
+      state: Selangor
+      state_abb: 10
+      postcode: 43000
+    phone: 5419670010
+
+
+  Tony:
+    fullname:
+      fname: Tony
+      lname: Greig
+    email_info:
+      email_address: tony.greig@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: GB
+    country: United Kingdom
+    house:
+      address1: 1 Ferry Rd
+      city: Leverburgh
+      state: Prescot
+      state_abb: Prescot
+      postcode: HS5 3UB
+    phone: 1483604781
+
+  Alec:
+    fullname:
+      fname: Alec
+      lname: Stewart
+    email_info:
+      email_address: alec.stewart@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: GB
+    country: United Kingdom
+    house:
+      address1: 1 Ferry Rd
+      city: Leverburgh
+      state: Prescot
+      state_abb: Prescot
+      postcode: HS5 3UB
+    phone: 1483604781
+
+  Masaomi:
+    fullname:
+      fname: Masaomi
+      lname: Kobayashi
+    email_info:
+      email_address: masaomi.kobayashi@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: JP
+    country: Japan
+    house:
+      address1: 211-1293, Taiseiku Nagaiso
+      city: Setana-cho Kudo-gun
+      state: Hokkaido
+      state_abb: Hokkaido
+      postcode: 043-0421
+    phone: +819013232104
+
+  Yuina:
+    fullname:
+      fname: Yuina
+      lname: Ikemura
+    email_info:
+      email_address: yuina.ikemura@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: JP
+    country: Japan
+    house:
+      address1: 211-1293, Taiseiku Nagaiso
+      city: Setana-cho Kudo-gun
+      state: Hokkaido
+      state_abb: Hokkaido
+      postcode: 043-0421
+    phone: 819013232104
+
+  DonChina:
+    fullname:
+      fname: Don漢字
+      lname: Bradman漢字
+    email_info:
+      email_address: don.bradman@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 漢字漢字漢字漢字
+      city: 漢字漢漢
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: +819013232104
+
+  Monica:
+    fullname:
+      fname: Monica
+      lname: Belluci
+    email_info:
+      email_address: cottononqa+monica@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 9991234567
+
+  Sophia:
+    fullname:
+      fname: Sophia
+      lname: Laura
+    email_info:
+      email_address: cottononqa+sophia@gmail.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 0403222630
+
+  Lynn:
+    fullname:
+      fname: Lynn
+      lname: Ladlee
+    email_info:
+      email_address: cottononqa+lynn@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: 0403222630
+
+  Lila:
+    fullname:
+      fname: Lilafn
+      lname: Lilaln
+    email_info:
+      email_address: cottononqa+lila@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: +61432596376
+
+  Lncc1:
+    fullname:
+      fname: Lnccfn
+      lname: Lnccln
+    email_info:
+      email_address: cottononqa+lncc1@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: +61432596376
+
+  Lncc2:
+    fullname:
+      fname: Lnccfn
+      lname: Lnccln
+    email_info:
+      email_address: cottononqa+lncc2@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 14 Shepherd Court
+      city: North Geelong
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: +61432596376
+
+  Jessica:
+    fullname:
+      fname: Jessica
+      lname: Alba
+    email_info:
+      email_address: cottononqa+jessica@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 11 Primus Rd
+      city: Williams Landing
+      state: Victoria
+      state_abb: VIC
+      postcode: 3027
+    phone: +61403222638
+
+  Jesse:
+    fullname:
+      fname: Jesse
+      lname: Jesse
+    email_info:
+      email_address: cottononqa+jesse@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 11 Primus Rd
+      city: Williams Landing
+      state: Victoria
+      state_abb: VIC
+      postcode: 3027
+    phone: +61413275638
+
+  Monique:
+    fullname:
+      fname: Monique
+      lname: NoPerks
+    email_info:
+      email_address: cottononqa+monique@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 11 Primus Rd
+      city: Williams Landing
+      state: Victoria
+      state_abb: VIC
+      postcode: 3027
+    phone: 413275638
+
+  Hima:
+    fullname:
+      fname: Hima
+      lname: US
+    email_info:
+      email_address: cottononqa+UShima@gmail.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 13 California Av
+      city: Bakersfield
+      state: California
+      state_abb: CA
+      postcode: 93304
+    phone: 5419670010
+
+  Julia:
+    fullname:
+      fname: Julia
+      lname: Verex
+    email_info:
+      email_address: cottononqa+julia@gmail.com
+      password: radiation123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 11 Primus Rd
+      city: Williams Landing
+      state: Victoria
+      state_abb: VIC
+      postcode: 3027
+    phone: +61403222638
+
+  Vincy:
+    fullname:
+      fname: Vincy
+      lname: US
+    email_info:
+      email_address: cottononqa+USvincy@gmail.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 1518 2nd St
+      city: Agua Dulce
+      state: Texas
+      state_abb: TX
+      postcode: 78330
+    phone: 5419670010
+
+  Filip:
+    fullname:
+      fname: Filip
+      lname: US
+    email_info:
+      email_address: cottononqa+USfilip@gmail.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 10 W Elm St
+      city: Albion
+      state: Illinois
+      state_abb: IL
+      postcode: 62806
+    phone: 5419670010
+
+  Steve:
+    fullname:
+      fname: Steve
+      lname: US
+    email_info:
+      email_address: cottononqa+USsteve@gmail.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 2958 Browns Gap Tpke
+      city: White Hall
+      state: Virginia
+      state_abb: VA
+      postcode: 22987
+    phone: 5419670010
+
+  MyAcc:
+    fullname:
+      fname: MyAcc
+      lname: US
+    email_info:
+      email_address: cottononqa+USMyAcc@gmail.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 2958 Browns Gap Tpke
+      city: White Hall
+      state: Virginia
+      state_abb: VA
+      postcode: 22987
+    phone: 5419670010
+
+  Matt:
+    fullname:
+      fname: Matt
+      lname: US
+    email_info:
+      email_address: cottononqa+USmatt@gmail.com
+      password: radiation123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 2958 Browns Gap Tpke
+      city: White Hall
+      state: Virginia
+      state_abb: VA
+      postcode: 22987
+    phone: 5419670010
+
+  Rob:
+    fullname:
+      fname: Rob
+      lname: US
+    email_info:
+      email_address: cottononqa+USrob@gmail.com
+      password: radiation123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4111 1111 1111 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house:
+      address1: 10 W Elm St
+      city: Albion
+      state: Illinois
+      state_abb: IL
+      postcode: 62806
+    phone: 5419670011
+
+
+  Nick:
+    fullname:
+      fname: Nick
+      lname: US
+    email_info:
+      email_address: cottononqa+USnick1@gmail.com
+      password: radiation123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: US
+    country: United States
+    house1:
+      address1: 10 W Elm St
+      city: Albion
+      state: Illinois
+      state_abb: IL
+      postcode: 62806
+    house2:
+      address1: 535 Pierce St
+      city: Albany
+      state: California
+      state_abb: CA
+      postcode: 94706
+    house3:
+      address1: 201 Historic Route 66
+      city: Adrian
+      state: Texas
+      state_abb: TX
+      postcode: 79001
+    phone: 5419670011
+
+  AUsavedaddress:
+    fullname:
+      fname: Saved
+      lname: Address
+    email_info:
+      email_address: cottononqa+AUsavedaddress@gmail.com
+      password: radiation123
+    store_postcode: 3030
+    store_address: Werribee Shopping Centre
+    store_city: Werribee
+    store_id: 3074
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 10
+      exp_year: 2022
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_month: 03
+      exp_year: 2030
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 11 Primus Rd
+      city: Williams Landing
+      state: Victoria
+      state_abb: VIC
+      postcode: 3027
+
+  SGUser:
+    fullname:
+      fname: Singapore
+      lname: User
+    email_info:
+      email_address: cottononqa+SGuser@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_error:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    phone: +6564406444
+
+  SGerrorUser:
+    fullname:
+      fname: Singa
+      lname: User
+    email_info:
+      email_address: cottononqa+SGerroruser@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_error:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    phone: +6564406444
+
+  SGUkuser:
+    fullname:
+      fname: Tony
+      lname: Greig
+    email_info:
+      email_address: tony.greig@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: GB
+    country: United Kingdom
+    house:
+      address1: 1 Ferry Rd
+      city: Leverburgh
+      state: Prescot
+      state_abb: Prescot
+      postcode: HS5 3UB
+    phone: 1483604781
+
+  SGJPuser:
+    fullname:
+      fname: Masaomi
+      lname: Kobayashi
+    email_info:
+      email_address: masaomi.kobayashi@email.com
+      password: Cottonon123
+    store_postcode: 84058
+    store_address: UNIVERSITY MALL
+    store_city: Orem
+    store_id: 1109
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: JP
+    country: Japan
+    house:
+      address1: 211-1293, Taiseiku Nagaiso
+      city: Setana-cho Kudo-gun
+      state: Hokkaido
+      state_abb: Hokkaido
+      postcode: 043-0421
+    phone: +819013232104
+
+  SGChina:
+    fullname:
+      fname: Don漢字
+      lname: Bradman漢字
+    email_info:
+      email_address: don.bradman@email.com
+      password: Cottonon123
+    store_postcode: 3220
+    store_address: MARKET SQUARE (MEGA)
+    store_city: GEELONG
+    store_id: 3002
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: AU
+    country: Australia
+    house:
+      address1: 漢字漢字漢字漢字
+      city: 漢字漢漢
+      state: Victoria
+      state_abb: VIC
+      postcode: 3215
+    phone: +819013232104
+
+  SGsavedcard:
+    fullname:
+      fname: Saved
+      lname: Card
+    email_info:
+      email_address: cottononqa+SGsavedcard@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    phone: +6564406444
+
+  SGsavedaddcard:
+    fullname:
+      fname: Saved
+      lname: addCard
+    email_info:
+      email_address: cottononqa+SGsavedaddcard@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    house 2:
+      fname: 2nd saved address
+      lname: 2nd saved address
+      address2: ION ORCHARD 350
+      city: Singapore
+      state: Central Singapore
+      state_abb: CS
+      postcode: 238801
+    phone: +6564406444
+
+  SGdeletecard:
+    fullname:
+      fname: Delete
+      lname: Card
+    email_info:
+      email_address: cottononqa+SGdeletecard@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    phone: +6564406444
+
+  SGdelsavedcards:
+    fullname:
+      fname: Delete
+      lname: SavedCard
+    email_info:
+      email_address: cottononqa+SGdelsavedcards@gmail.com
+      password: radiation123
+    store_postcode: 238801
+    store_address: ION ORCHARD 350 Orchard Road Singapore
+    store_city: Singapore
+    store_id: 7420
+    creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 10/22
+      sec_code: 123
+    adyen_valid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_valid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_3DS_invalid_creditcard:
+      cc_number: 4917 6100 0000 0000
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 737
+    adyen_invalid_cvc_creditcard:
+      cc_number: 4444 3333 2222 1111
+      exp_date: 03/30
+      sec_code: 111
+    country_value: SG
+    country: Singapore
+    house:
+      address1: 262 01-05
+      city: BALESTIER RD
+      state: Central Singapore
+      state_abb: CS
+      postcode: 3294
+    phone: +6564406444

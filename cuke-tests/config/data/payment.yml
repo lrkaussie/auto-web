@@ -1,0 +1,31 @@
+Payment:
+  afterpay:
+    AU:
+      user_email: testingbindu7@gmail.com
+      password: Welcome*123
+    NZ:
+      user_email: autotest@email.com
+      password: Pleasedontgo28!
+    US:
+      user_email: autotest@email.com
+      password: Pleasedontgo28!
+  paypal:
+    AU:
+      user_email: testsideconnectionmaster+cogaubuyer@gmail.com
+      password: Cotton01
+  zip:
+    AU:
+      user_email: cottononqa+zipautomation@gmail.com
+      password: cottontest
+  laybuy:
+    AU:
+      user_email: aulaybuy@cottonon.com.au
+      password: Laybuycotton1!
+  humm:
+    AU:
+      user_email: test.cottonon1@shophumm.test
+      password: 0nKZu3yAH3KpH2IVcrbN
+  humm_nz:
+    NZ:
+      user_email: testnz.cottonon2@shophumm.test
+      password: qN7hivBXFYxrwXxzAazE

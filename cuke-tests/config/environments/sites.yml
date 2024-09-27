@@ -1,0 +1,22 @@
+Siteinfo:
+  au_url: https://development-web-cottonongroup.demandware.net/s/cog-au/
+  nz_url: https://development-web-cottonongroup.demandware.net/s/cog-nz/
+  sa_url: https://development-web-cottonongroup.demandware.net/s/cog-za/
+  us_url: https://development-web-cottonongroup.demandware.net/s/cog-us/
+  my_url: https://development-web-cottonongroup.demandware.net/s/cog-my/
+  uk_url: https://development-web-cottonongroup.demandware.net/s/cog-uk/
+  sg_url: https://development-web-cottonongroup.demandware.net/s/cog-sg/
+
+  bm_url: https://development-web-cottonongroup.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage
+  bm_username: vincy.bedi@cottonon.com.au
+  bm_password: Bijiji@123
+
+# au_url: https://ci.cottonon.com/AU/
+# nz_url: https://ci.cottonon.com/NZ/
+# sa_url: https://ci.cottonon.com/ZA/
+# us_url: https://ci.cottonon.com/US/
+# my_url: https://ci.cottonon.com/MY/
+# uk_url: https://ci.cottonon.com/UK/
+# bm_url: https://dev04-ecom-cottonongroup.demandware.net/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage
+# bm_username: vincy
+# bm_password: Lovemataji@123
